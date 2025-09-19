@@ -15,7 +15,7 @@ Este projeto tem como objetivo realizar uma análise exploratória(EDA) dos acid
 
 - Pandas
 
- -Matplotlib
+- Matplotlib
 
 - Seaborn
 
